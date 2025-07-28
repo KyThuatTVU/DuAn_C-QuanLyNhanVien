@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DuAn-ASP.NET\\MyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|d:\\duan-asp.net\\myweb\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|solutionrelative:views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|d:\\duan-asp.net\\myweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|d:\\duan-asp.net\\myweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|d:\\duan-asp.net\\myweb\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|solutionrelative:views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|d:\\duan-asp.net\\myweb\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE6EE81-D578-4D1F-B786-D03AD22EDD43}|MyWeb.csproj|solutionrelative:views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LienHe.cshtml",
+              "DocumentMoniker": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\LienHe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LienHe.cshtml",
+              "ToolTip": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\LienHe.cshtml",
+              "RelativeToolTip": "Views\\Home\\LienHe.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T05:49:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GioiThieu.cshtml",
+              "ToolTip": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeToolTip": "Views\\Home\\GioiThieu.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T05:48:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SanPham.cshtml",
+              "ToolTip": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\SanPham.cshtml",
+              "RelativeToolTip": "Views\\Home\\SanPham.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T05:46:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DuAn-ASP.NET\\MyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T05:06:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DuAn-ASP.NET\\MyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DuAn-ASP.NET\\MyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:05:27.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

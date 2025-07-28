@@ -1,0 +1,14 @@
+D:\DuAn-ASP.NET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\DuAn-ASP.NET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\DuAn-ASP.NET\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanTri.resources
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.resources
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChamCong.resources
+D:\DuAn-ASP.NET\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.NhanVien.resources

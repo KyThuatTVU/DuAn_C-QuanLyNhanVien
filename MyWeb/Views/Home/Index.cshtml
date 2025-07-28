@@ -1,0 +1,138 @@
+﻿
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiệu Sách Online</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Thêm favicon nếu có -->
+    <link rel="icon" href="path/to/your/favicon.ico">
+</head>
+<body class="bg-gray-100 font-sans">
+
+    <!-- Header -->
+    <header class="bg-white shadow-md py-4">
+        <div class="container mx-auto flex items-center justify-between px-4">
+            <a href="#" class="text-2xl font-bold text-indigo-600">Hiệu Sách Online</a>
+            <nav>
+                <ul class="flex space-x-6">
+                    <li><a href="/Home/Index" class="hover:text-indigo-500">Trang chủ</a></li>
+                    <li><a href="/Home/SanPham" class="hover:text-indigo-500">Sản phẩm</a></li>
+                    <li><a href="/Home/GioiThieu" class="hover:text-indigo-500">Giới thiệu</a></li>
+                    <li><a href="/Home/LienHe" class="hover:text-indigo-500">Liên hệ</a></li>
+                </ul>
+            </nav>
+            <!-- Thêm icon giỏ hàng (nếu có phần giỏ hàng) -->
+            <a href="#" class="relative">
+                <svg class="h-6 w-6 text-gray-600" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor">
+                    <path d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                </svg>
+                <span class="absolute top-0 right-0 -mt-1 -mr-1 bg-red-500 text-white rounded-full px-1 text-xs">0</span> <!-- Số lượng sp trong giỏ -->
+            </a>
+        </div>
+    </header>
+
+    <!-- Banner/Hero Section -->
+    <section class="bg-indigo-100 py-16">
+        <div class="container mx-auto text-center px-4">
+            <h1 class="text-4xl font-bold text-gray-800 mb-4">Khám phá thế giới tri thức</h1>
+            <p class="text-lg text-gray-600 mb-8">Tìm kiếm những cuốn sách yêu thích của bạn ngay hôm nay!</p>
+            <a href="#" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-6 rounded-full">Xem tất cả sách</a>
+        </div>
+    </section><input id="Password1" type="password" />
+
+    <!-- Product Listing -->
+    <section class="py-12">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-gray-800 mb-8">Sản phẩm nổi bật</h2>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <!-- Product Card (Lặp lại cho mỗi sản phẩm) -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                    <img src="https://via.placeholder.com/300x400" alt="Tên sách" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-700">Tên sách</h3>
+                        <p class="text-gray-500">Tác giả</p>
+                        <p class="text-indigo-600 font-bold mt-2">Giá: 100.000 VNĐ</p>
+                        <button class="mt-4 bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded-full">
+                            Thêm vào giỏ
+                        </button>
+                    </div>
+                </div>
+                <!-- Thêm các product card khác -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                    <img src="https://via.placeholder.com/300x400" alt="Tên sách" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-700">Tên sách 2</h3>
+                        <p class="text-gray-500">Tác giả 2</p>
+                        <p class="text-indigo-600 font-bold mt-2">Giá: 120.000 VNĐ</p>
+                        <button class="mt-4 bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded-full">
+                            Thêm vào giỏ
+                        </button>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                    <img src="https://via.placeholder.com/300x400" alt="Tên sách" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-700">Tên sách 3</h3>
+                        <p class="text-gray-500">Tác giả 3</p>
+                        <p class="text-indigo-600 font-bold mt-2">Giá: 90.000 VNĐ</p>
+                        <button class="mt-4 bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded-full">
+                            Thêm vào giỏ
+                        </button>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                    <img src="https://via.placeholder.com/300x400" alt="Tên sách" class="w-full h-64 object-cover">
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-700">Tên sách 4</h3>
+                        <p class="text-gray-500">Tác giả 4</p>
+                        <p class="text-indigo-600 font-bold mt-2">Giá: 150.000 VNĐ</
+                    </div> <!-- Đóng div của grid sản phẩm -->
+                </div> <!-- Đóng container của phần sản phẩm -->
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Thông tin liên hệ</h4>
+                    <p>Hiệu Sách Online</p>
+                    <p>Địa chỉ: 123 Đường ABC, Thành phố XYZ</p>
+                    <p>Email: info@hieusachonline.com</p>
+                    <p>Điện thoại: (0123) 456-789</p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Chính sách</h4>
+                    <ul>
+                        <li><a href="#" class="hover:text-indigo-300">Chính sách đổi trả</a></li>
+                        <li><a href="#" class="hover:text-indigo-300">Chính sách bảo mật</a></li>
+                        <li><a href="#" class="hover:text-indigo-300">Điều khoản dịch vụ</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Kết nối với chúng tôi</h4>
+                    <div class="flex space-x-4">
+                        <!-- Thay thế bằng link mạng xã hội thực tế -->
+                        <a href="#" class="hover:text-indigo-300"><i class="fab fa-facebook-f"></i></a>  <!-- Cần import Font Awesome hoặc thư viện icon tương tự -->
+                        <a href="#" class="hover:text-indigo-300"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="hover:text-indigo-300"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-8 text-center text-gray-400">
+                © 2023 Hiệu Sách Online.  All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Thêm các script (nếu cần) -->
+    <!-- <script src="your-script.js"></script> -->
+
+</body>
+</html>
+
